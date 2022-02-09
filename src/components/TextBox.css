@@ -1,0 +1,21 @@
+.text-field {
+    height: 30px;
+    width: 40%;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
+.add-button {
+    width: 15%;
+    height: 30px;
+    margin: 15px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
+.input-box {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

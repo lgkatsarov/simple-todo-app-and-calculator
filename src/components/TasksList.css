@@ -1,0 +1,26 @@
+.task-list{
+    list-style: none;
+    align-items: center;
+}
+
+.btn {
+    height: 30px;
+    margin: 15px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
+.del-btn {
+    background-color: rgb(151, 54, 54);
+    color: white;
+}
+
+.done-btn {
+    margin-left: 0px;
+    background-color: lightseagreen;
+    color: black;
+}
+
+.task-done {
+    text-decoration: line-through;
+}
